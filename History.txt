@@ -1,0 +1,5 @@
+=== 0.1.0 / 2009-05-28
+
+* Initial release 
+  * Support for basic operations 
+  * No support for key expiry 
